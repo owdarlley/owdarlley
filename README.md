@@ -1,23 +1,50 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Dárlley+Alves+👋;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+🚀;TypeScript+%7C+Next.js+%7C+Firebase" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=D%C3%A1rlley%20Alves&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+---
 
-# Olá, eu sou o Dárlley! 👋
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/owdarlley?label=Followers&style=social)](https://github.com/owdarlley)
-[![Profile Views](https://komarev.com/ghpvc/?username=owdarlley&color=blueviolet&style=flat-square)](https://github.com/owdarlley)
+[![GitHub followers](https://img.shields.io/github/followers/owdarlley?label=Followers&style=for-the-badge&color=6C63FF&logo=github)](https://github.com/owdarlley)
+[![Profile Views](https://komarev.com/ghpvc/?username=owdarlley&color=6C63FF&style=for-the-badge&label=Visualizações)](https://github.com/owdarlley)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Quem sou eu
 
-- 🔭 Atualmente trabalhando em **[AutoGestor](https://github.com/owdarlley/AutoGestor)** — uma aplicação Next.js + Firebase
-- 🌱 Aprendendo e evoluindo em **TypeScript**, **React** e **Next.js**
-- 💡 Apaixonado por construir soluções que fazem diferença
-- 🎯 Sempre buscando escrever código mais limpo e eficiente
-- 📍 Brasil
+Sou o **Dárlley Alves**, desenvolvedor apaixonado por criar soluções que realmente fazem diferença. Tenho uma mentalidade orientada a resultados e gosto de transformar ideias complexas em produtos simples e funcionais.
+
+Minha jornada no desenvolvimento começou com curiosidade e cresceu em comprometimento. Hoje trabalho principalmente com o ecossistema **JavaScript/TypeScript**, construindo aplicações web modernas com **Next.js** e infraestrutura em nuvem com **Firebase**.
+
+Acredito que código limpo é respeito pelo próximo desenvolvedor — e pelo você do futuro. Por isso busco sempre escrever soluções que sejam não apenas funcionais, mas sustentáveis e fáceis de evoluir.
+
+---
+
+## 🧠 Um pouco mais sobre mim
+
+```typescript
+const darlley = {
+  nome:        "Dárlley Alves",
+  username:    "@owdarlley",
+  localização: "Brasil 🇧🇷",
+  foco:        "Full Stack Development",
+  stack: {
+    frontend:  ["TypeScript", "Next.js", "React", "HTML5", "CSS3"],
+    backend:   ["Node.js", "Firebase", "REST APIs"],
+    database:  ["Firestore", "PostgreSQL"],
+    tools:     ["Git", "GitHub", "VS Code", "Vercel"],
+  },
+  atualmente: {
+    construindo:  "AutoGestor — app de gestão com Next.js + Firebase",
+    aprendendo:   "Arquitetura de software e boas práticas de código",
+    interesse:    "Produtos digitais que resolvem problemas reais",
+  },
+  filosofia: "Código bom é aquele que não precisa de explicação.",
+};
+```
 
 ---
 
@@ -25,60 +52,66 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,html,css,nodejs,firebase,git,github,vscode,vercel&perline=6" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=owdarlley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owdarlley&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=owdarlley&theme=tokyonight)](https://git.io/streak-stats)
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**AutoGestor**](https://github.com/owdarlley/AutoGestor) | Aplicação de gestão automatizada | Next.js · Firebase · TypeScript |
+| [**COTOU**](https://github.com/owdarlley/COTOU) | Projeto web em desenvolvimento | HTML · CSS · JavaScript |
+| [**Digitar**](https://github.com/owdarlley/Digitar) | Repositório de prática e aprendizado | Em desenvolvimento |
 
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📊 Estatísticas
 
 <div align="center">
 
-[![AutoGestor](https://github-readme-stats.vercel.app/api/pin/?username=owdarlley&repo=AutoGestor&theme=tokyonight)](https://github.com/owdarlley/AutoGestor)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=owdarlley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owdarlley&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=owdarlley&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📫 Entre em contato
+## 💬 Frase que me representa
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-owdarlley-181717?style=for-the-badge&logo=github)](https://github.com/owdarlley)
+> *"Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."*
+> — **Martin Fowler**
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+Estou sempre aberto a trocar ideias, colaborar em projetos ou simplesmente bater um papo sobre tecnologia.
+
+[![GitHub](https://img.shields.io/badge/GitHub-owdarlley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owdarlley)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
-
+  <sub>Feito com 💜 por Dárlley Alves</sub>
 </div>
