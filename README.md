@@ -84,19 +84,6 @@ const darlley = {
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owdarlley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owdarlley&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owdarlley&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 💬 Frase que me representa
 
 > *"Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."* — **Martin Fowler**
