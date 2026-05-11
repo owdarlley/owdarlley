@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Dárlley+Alves+👋;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+🚀;TypeScript+%7C+Next.js+%7C+Firebase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+D%C3%A1rlley+Alves+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+%F0%9F%9A%80;TypeScript+%7C+Next.js+%7C+Firebase" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,10 +18,10 @@ Acredito que código limpo é respeito pelo próximo desenvolvedor — e pelo vo
 
 ```ts
 const darlley = {
-  nome:       "Dárlley Alves",
-  username:   "@owdarlley",
+  nome:        "Dárlley Alves",
+  username:    "@owdarlley",
   localização: "Brasil 🇧🇷",
-  foco:       "Full Stack Development",
+  foco:        "Full Stack Development",
   stack: {
     frontend:  ["TypeScript", "Next.js", "React", "HTML5", "CSS3", "Tailwind CSS"],
     backend:   ["Node.js", "Firebase", "REST APIs", "Express.js"],
@@ -74,53 +74,45 @@ const darlley = {
 | Competência | Nível |
 |---|---|
 | 🏗️ Arquitetura de Software | ⭐⭐⭐⭐ |
-| 🔁 Clean Code & Boas Práticas | ⭐⭐⭐⭐⭐ |
+| 🔁 Clean Code e Boas Práticas | ⭐⭐⭐⭐⭐ |
 | 🎯 Resolução de Problemas | ⭐⭐⭐⭐⭐ |
 | 🤝 Trabalho em Equipe | ⭐⭐⭐⭐⭐ |
 | 📐 UI/UX Orientado ao Usuário | ⭐⭐⭐⭐ |
-| ⚡ Performance & Otimização | ⭐⭐⭐⭐ |
+| ⚡ Performance e Otimização | ⭐⭐⭐⭐ |
 | 🔐 Segurança em Aplicações Web | ⭐⭐⭐⭐ |
-| 📦 Gestão de Estado (React/Context/Zustand) | ⭐⭐⭐⭐ |
+| 📦 Gestão de Estado React | ⭐⭐⭐⭐ |
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owdarlley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owdarlley&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owdarlley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owdarlley&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owdarlley&theme=tokyonight" alt="GitHub Streak" />
-</div>div>
+</div>
 
 ---
 
 ## 💬 Frase que me representa
 
 > *"Qualquer tolo pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."* — **Martin Fowler**
->
-> ---
->
-> ## 📫 Vamos conversar?
->
-> Estou sempre aberto a trocar ideias, colaborar ou simplesmente bater um papo sobre tecnologia!
->
-> <div align="center">
-  <a href="https://linkedin.com/in/owdarlley" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>a>
-    <a href="mailto:owdarlley@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>a>
-      <a href="https://github.com/owdarlley" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>a>
-      </div>
 
-      ---
+---
 
-      <div align="center">
-        Feito com 💜 por <strong>Dárlley Alves</strong>
-        </div>
+## 📫 Vamos conversar?
+
+Estou sempre aberto a trocar ideias, colaborar ou simplesmente bater um papo sobre tecnologia!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/owdarlley)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owdarlley@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owdarlley)
+
+---
+
+<div align="center">
+  Feito com 💜 por <strong>Dárlley Alves</strong>
+</div>
