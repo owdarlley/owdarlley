@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Dárlley+Alves+👋;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+🚀;TypeScript+%7C+Next.js+%7C+Firebase" alt="Typing SVG" />
-</div>div>
+</div>
 
 ---
 
